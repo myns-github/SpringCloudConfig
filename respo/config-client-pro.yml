@@ -1,4 +1,4 @@
-name：pro
+name: pro
 spring:
   datasource:
     driver-class-name: oracle.jdbc.OracleDriver
