@@ -1,5 +1,7 @@
-name=pro
-spring.datasource.driver-class-name=oracle.jdbc.OracleDriver
-spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl
-spring.datasource.username=scott
-spring.datasource.password=tiger
+name：pro
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.OracleDriver
+    url: jdbc:oracle:thin:@localhost:1521:orcl
+    username: scott
+    password: tiger
